@@ -5,6 +5,6 @@
   "author": "christopherbiscardi <chris@christopherbiscardi.com> (@chrisbiscardi)",
   "license": "MIT",
   "dependencies": {
-    "aws-sdk": "^2.626.0"
+    "aws-sdk": "^2.1085.0"
   }
 }
